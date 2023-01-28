@@ -116,7 +116,7 @@
 ## S
 
 
-* *sznycel* – inaczej styl,
+* *sznycel* – inaczej styl
 
 
 ## Ś
