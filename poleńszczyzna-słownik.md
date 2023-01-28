@@ -39,6 +39,7 @@
 
 ## F
 
+* *fediś* – zartobliwie o kimś, kto udziela się na fediwersum
 
 
 ## G
