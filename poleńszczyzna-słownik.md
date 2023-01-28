@@ -74,7 +74,7 @@
 
 ## L
 
-* *luźna guma*, *mieć luźną gumę* – być wyluzowanym, nie denerwować się. **Etymologia***: od bielizny, która nie odcina przepływu krwi, nie uwiera
+* *luźna guma*, *mieć luźną gumę* – być wyluzowanym, nie denerwować się. **Etymologia**: od bielizny, która nie odcina przepływu krwi, nie uwiera
 
 ## Ł
 
