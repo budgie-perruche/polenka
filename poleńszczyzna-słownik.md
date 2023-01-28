@@ -1,6 +1,6 @@
 # Słownik poleńszczyzny
 
-Żargon używany przez społeczność poliwersum (polska społeczność fediwersum). Żargon znany jest również pod innymi nazwami tj. poleńka lub fedigadka.
+Żargon używany przez społeczność poliwersum (polska społeczność fediwersum). Żargon znany jest również pod innymi nazwami tj. poleńka lub fedigadka
 
 
 ## A
@@ -18,7 +18,7 @@
 ## C
 
 
-* *czopka* – coś, w co ciężko uwierzyć, coś niespodziewanego, ale również stan umysłu po alkoholu i narkotykach.
+* *czopka* – coś, w co ciężko uwierzyć, coś niespodziewanego, ale również stan umysłu po alkoholu i narkotykach
 
 
 ## Ć
@@ -62,7 +62,7 @@
 ## J
 
 
-* *jajochlebek* – grzanka francuska tj. kawałek chleba obtoczony w mieszaninie rozbitych jaj i mleka, a później smażony.
+* *jajochlebek* – grzanka francuska tj. kawałek chleba obtoczony w mieszaninie rozbitych jaj i mleka, a później smażony
 
 
 ## K
@@ -75,7 +75,7 @@
 
 ## L
 
-* *luźna guma*, *mieć luźną gumę* – być wyluzowanym, nie denerwować się. **Etymologia**: od bielizny, która nie odcina przepływu krwi, nie uwiera
+* *luźna guma*, *mieć luźną gumę* – być wyluzowanym, nie denerwować się. **Etymologia**: od bielizny, która nie blokuje przepływu krwi, nie uwiera
 
 ## Ł
 
@@ -125,7 +125,7 @@
 ## T
 
 
-* *trąbnięcie* – wiadomość wysłana do fediwersum za pomocą Mastodon.
+* *trąbnięcie* – wiadomość wysłana do fediwersum za pomocą Mastodon
 
 
 ## U
@@ -157,4 +157,4 @@
 
 ### Sarkazm i żarty
 
-W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. Tradycję zapoczątkował Romualda Babinicza ([@kmicic](https://qoto.org/@kmic)).
+W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. Tradycję zapoczątkował Romualda Babinicz ([@kmicic](https://qoto.org/@kmic)).
