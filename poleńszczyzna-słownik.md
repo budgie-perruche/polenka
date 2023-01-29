@@ -13,14 +13,14 @@
 
 ## B
 
-* *buzdygan* – patrz *arnold*
+* *buzdygan* – patrz *arnold*,
 * *buzu* – młodzieżowa forma słowa *buzdygan*
 
 ## C
 
 
-* *czopka* – coś, w co ciężko uwierzyć, coś niespodziewanego, ale również stan umysłu po alkoholu i narkotykach
-
+* *czopka* – coś, w co ciężko uwierzyć, coś niespodziewanego, ale również stan umysłu po alkoholu i narkotykach,
+* *cycat* – inaczej cytat
 
 ## Ć
 
@@ -69,8 +69,7 @@
 ## K
 
 
-* *kciukieć* – pierwszy palec ręki i przeciwstawny czterem pozostałym
-
+* *kciukieć* – pierwszy palec ręki i przeciwstawny czterem pozostałym,
 * *kratykietka* – etykietka zaczynająca się od znaku '#', np. kratykietka #SOBOTA
 
 
