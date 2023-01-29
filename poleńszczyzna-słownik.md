@@ -86,7 +86,7 @@
 
 ## M
 
-* – *mefka* - kobieta lekkich obyczajów
+* *mefka* - kobieta lekkich obyczajów
 
 ## N
 
