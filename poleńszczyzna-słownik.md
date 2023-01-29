@@ -105,7 +105,7 @@
 
 ## P
 
-* *pierdółwpis* – czynność celowego publikowania prowokacyjnych lub nie na temat komentarzy w mediach społecznościowych, zwykle w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*.
+* *pierdółwpis* – celowo prowokacyjny lub niezwiązany z tematem komentarz publikowany w mediach społecznościowych, zazwyczaj w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*.
 
 ## (Q)
 
