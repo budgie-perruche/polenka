@@ -14,7 +14,7 @@
 ## B
 
 * *buzdygan* – patrz *arnold*
-* *buzu* – młodzieżowa forma słowa *buzdygana*.
+* *buzu* – młodzieżowa forma słowa *buzdygan*
 
 ## C
 
