@@ -5,7 +5,8 @@
 
 ## A
 
-* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię
+* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię,
+* *atom* – zablokowanie użytkownika lub zawieszenie całej instancji (od opcji atomowej, bomby atomowej, tj. ostatecznej broni)
 
 ## Ą
 
@@ -96,7 +97,7 @@
 
 ## O
 
-
+* *ogródek* – instancja oprogramowania w sieci fediwersum np. Mastodon
 
 ## Ó
 
@@ -116,7 +117,7 @@
 
 ## S
 
-
+* *szeryf* – inaczej administrator instancji np. Mastodon,
 * *sznycel* – inaczej styl
 
 
