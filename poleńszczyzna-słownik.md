@@ -13,7 +13,7 @@
 
 
 ## B
-
+* *bogatkoraptor* – inaczej sikorka bogatka,
 * *buzdygan* – patrz *arnold*,
 * *buzu* – młodzieżowa forma słowa *buzdygan*
 
@@ -70,8 +70,9 @@
 
 ## K
 
-
+* *kaczkonurek* – inaczej kaczka,
 * *kciukieć* – pierwszy palec ręki i przeciwstawny czterem pozostałym,
+* *kokoraptor* – inaczej kura,
 * *kratykietka* – etykietka zaczynająca się od znaku '#', np. kratykietka #SOBOTA
 
 
@@ -159,4 +160,4 @@
 
 ### Sarkazm i żarty
 
-W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. Tradycję zapoczątkował Romualda Babinicz ([@kmicic](https://qoto.org/@kmic)).
+W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. Dodanie zwierzęcia nie neguje ordynarnego języka. Tradycję zapoczątkował Romualda Babinicz ([@kmicic](https://qoto.org/@kmic)).
