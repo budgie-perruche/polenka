@@ -29,7 +29,7 @@
 
 ## D
 
-
+* *dziesiony* – nazwa instancji Mastodon pod adresem *101010.pl* 
 
 ## E
 
