@@ -105,7 +105,7 @@
 
 ## P
 
-
+* *pierduwpis* – czynność celowego publikowania prowokacyjnych lub nie na temat komentarzy w mediach społecznościowych, zwykle w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy
 
 ## (Q)
 
