@@ -160,4 +160,4 @@
 
 ### Sarkazm i żarty
 
-W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. Dodanie zwierzęcia nie neguje ordynarnego języka. Tradycję zapoczątkował Romualda Babinicz ([@kmicic](https://qoto.org/@kmic)).
+W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. **Uwaga**: Dodanie zwierzęcia nie neguje ordynarnego języka! Tradycję zapoczątkował Romuald Babinicz ([@kmicic](https://qoto.org/@kmic)).
