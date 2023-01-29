@@ -7,7 +7,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 ## A
 
-* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię,
+* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię. **Uwaga**: Należy zaznaczyć, że w przeciwnieństwie do *trolla*, arnold może mięc również pozytywne znaczenie.,
 * *atom* – zablokowanie użytkownika lub zawieszenie całej instancji (od opcji atomowej, bomby atomowej, tj. ostatecznej broni)
 
 ## Ą
