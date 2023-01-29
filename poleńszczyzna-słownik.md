@@ -81,11 +81,11 @@
 
 ## Ł
 
-
+* *Łagiewniki* – miejsce legendarne, używane w żartach i skojarzone z miejscem (zajazdem), gdzie pracują mefki (patrz *mefka*)
 
 ## M
 
-
+* – *mefka* - kobieta lekkich obyczajów
 
 ## N
 
