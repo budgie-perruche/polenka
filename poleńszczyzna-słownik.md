@@ -5,7 +5,7 @@
 
 ## A
 
-
+* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię
 
 ## Ą
 
@@ -13,7 +13,7 @@
 
 ## B
 
-
+* *buzdygan* – patrz arnold
 
 ## C
 
