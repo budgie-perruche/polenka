@@ -40,7 +40,8 @@
 
 ## F
 
-* *fediś* – zartobliwie o kimś, kto udziela się na fediwersum
+* *federasta* – zartobliwie o kimś, kto udziela się na fediwersum,
+* *fediś* – patrz *federasta*
 
 
 ## G
