@@ -109,6 +109,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 ## P
 
 * *pierdółwpis* – celowo prowokacyjny lub niezwiązany z tematem komentarz publikowany w mediach społecznościowych, zazwyczaj w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*.
+* *pukanki* – inaczej popcorn
 
 ## (Q)
 
