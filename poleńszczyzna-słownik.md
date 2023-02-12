@@ -56,7 +56,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 ## H
 
-
+* *heheszka* – tak samo jak w języku polski [https://sjp.pl/heheszki](https://sjp.pl/heheszki), oraz określenie na ciąg "hehehe", "hahaha",tj., ciąg znaków potocznie przyjęty jako określający śmianie się.
 * *huta* – wydarzenie taneczno-rozrywkowe
 
 
