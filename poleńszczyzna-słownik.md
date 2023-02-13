@@ -15,6 +15,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 
 ## B
+* *bochenek mleka* – inaczej ser,
 * *bogatkoraptor* – inaczej sikorka bogatka,
 * *buzdygan* – patrz *arnold*,
 * *buzu* – młodzieżowa forma słowa *buzdygan*
