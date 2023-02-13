@@ -76,6 +76,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 * *kciukieć* – pierwszy palec ręki i przeciwstawny czterem pozostałym,
 * *kokoraptor* – inaczej kura,
 * *kratykietka* – etykietka zaczynająca się od znaku '#', np. kratykietka #SOBOTA
+* *kruci* – przekleństwo o małej wadze ([patrz również](https://sjp.pwn.pl/mlodziezowe-slowo-roku/haslo/kruci;6368877.html))
 
 
 ## L
