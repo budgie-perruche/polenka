@@ -80,6 +80,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 * *kratykietka* – etykietka zaczynająca się od znaku '#', np. kratykietka #SOBOTA
 * *kruci* – przekleństwo o małej wadze ([patrz również](https://sjp.pwn.pl/mlodziezowe-slowo-roku/haslo/kruci;6368877.html))
 * *kryńć* – inaczej tańcz
+* *knur* – np. silny lub męski jak knur (znaczenie pozytywne)
 
 
 ## L
