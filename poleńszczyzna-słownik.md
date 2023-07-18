@@ -2,7 +2,7 @@
 
 Żargon używany przez społeczność poliwersum (polska społeczność fediwersum). Żargon znany jest również pod innymi nazwami tj. poleńka lub fedigadka
 
-Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](https://mastodon.online/@copyme)).
+Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](https://pl.fediverse.pl/@kopimi)).
 
 
 ## A
@@ -15,6 +15,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 
 ## B
+* *babiczka* - emoji zwierzęcia np. 🦆, użyte do oznaczenia sarkazmu lub żartu patrz uwagi poniżej.
 * *bochenek mleka* – inaczej ser,
 * *bogatkoraptor* – inaczej sikorka bogatka,
 * *buzdygan* – patrz *arnold*,
@@ -52,7 +53,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 
 * *gyńś* – ktoś, kto nie zna poleńki
-
+* *gęsi* - inaczej fedi (np. na gęsi, tj. na fedi)
 
 
 ## H
@@ -112,6 +113,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 ## P
 
 * *pierdółwpis* – celowo prowokacyjny lub niezwiązany z tematem komentarz publikowany w mediach społecznościowych, zazwyczaj w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*.
+*  *prynt* – kobieciaż, ktoś kto jeździ na zabawy/imprezy w celu poznania kobiet (brak odpowiednia żeńskiego)
 * *pukanki* – inaczej popcorn
 
 ## (Q)
@@ -138,13 +140,13 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@copyme](http
 
 
 ## U
-
+* *uć* – inaczej Łódź (miasto)
 
 ## (V)
 
 
 ## W
-
+* *wytchniówka* – inaczej weekend
 
 ## (X)
 
