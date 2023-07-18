@@ -113,7 +113,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 
 ## P
 
-* *pierdółwpis* – celowo prowokacyjny lub niezwiązany z tematem komentarz publikowany w mediach społecznościowych, zazwyczaj w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*.
+* *pierdółwpis* – celowo prowokacyjny lub niezwiązany z tematem komentarz publikowany w mediach społecznościowych, zazwyczaj w celu zdenerwowania innych lub odwrócenia uwagi od głównej rozmowy. Słowo pochodzi od połączenia *pirdoły* i *wpisu*. **Uwaga:** ostatnio również trąbnięcia zawierające co popadnie.
 *  *prynt* – kobieciaż, ktoś kto jeździ na zabawy/imprezy w celu poznania kobiet (brak odpowiednia żeńskiego)
 * *pukanki* – inaczej popcorn
 
