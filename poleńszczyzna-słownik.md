@@ -147,6 +147,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 
 
 ## W
+* *wideło* – inaczej wideo
 * *wytchniówka* – inaczej weekend
 
 ## (X)
