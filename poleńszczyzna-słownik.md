@@ -175,7 +175,7 @@ W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszcz
 
 ### Objaśnienia
 
-##### ać banan
+##### Wyginać banan
 
 Dlaczego wyginać 🍌 ?
 
