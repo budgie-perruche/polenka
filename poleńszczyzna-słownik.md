@@ -171,3 +171,21 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 ### Sarkazm i żarty
 
 W tradycji poliwersum nieoczywisty sarkazm i żart oznacza się poprzez umieszczenie na końcu trąbnięcia emoji przedstawiającego zwierzę np. 🦆 lub 🐴. **Uwaga**: Dodanie zwierzęcia nie neguje ordynarnego języka! Tradycję zapoczątkował Romuald Babinicz ([@kmicic](https://qoto.org/@kmic)).
+
+
+### Objaśnienia
+
+##### ać banan
+
+Dlaczego wyginać 🍌 ?
+
+To kalka z francuskiego: j'ai la banane (mam banana) 
+
+To wyrażenie pochodzi z XX wieku i nawiązuje do kształtu banana i uśmiechu.  Mieć banana = czuć się dobrze, cieszyć się, uśmiechać się. Więc następnym Razem gdy, ktoś was zapyta: Comment ça-va ? Możecie odpowiedzieć: j'ai la banane. 
+
+W języku francuskim istnieją również podobne wyrażenia np.: j'ai la patate (mam ziemniaka). Ale tutaj znaczenie jest trochę inne. Ziemniak powiązany jest z energią i chodzi po prostu o to, że jesteśmy naładowani energią — tak jak ziemniak. Mieć ziemniaka = mieć całą głowę (ziemniaka jest okrągły jak głowa), czyli mamy energię i głowa działa na 100%, nie zamulamy. 
+
+
+Dlaczego więc wygnać banan(a)?  Można spotkać w sklepach długie, i proste banany. Które kształtem przypominają smutne bezwyrazowe usta — tzw. kreska na twarzy.  Wygiąć banana = uśmiechnąć się. 
+
+Dlaczego (wygiąć) banan, a nie banana? Żeby było śmiesznie.
