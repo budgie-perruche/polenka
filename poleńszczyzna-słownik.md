@@ -93,7 +93,8 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 
 ## M
 
-* *mefka* - kobieta lekkich obyczajów
+* *mefka* – kobieta lekkich obyczajów
+* *memuszek* – inaczej mem od angielskiego meme 
 
 ## N
 
